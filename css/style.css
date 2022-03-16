@@ -66,3 +66,6 @@ body {
 .menu-link:hover {
   background-color: var(--my_gray_color);
 }
+.skills {
+  color: var(--my_pink_color);
+}
